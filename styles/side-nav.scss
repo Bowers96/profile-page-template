@@ -1,0 +1,9 @@
+$module-name: 'side-nav';
+
+.#{$module-name} {
+	
+	&__header {
+		color: white;
+		font-size: 40px;
+	}
+}

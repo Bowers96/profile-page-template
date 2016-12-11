@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIC,iBAAU;EACT,KAAK,EAAE,KAAK;EACZ,SAAS,EAAE,IAAI",
+"sources": ["side-nav.scss"],
+"names": [],
+"file": "side-nav.css"
+}
