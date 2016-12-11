@@ -1,0 +1,29 @@
+.hero {
+  text-align: center;
+  background-image: url("../images/bw-mountain.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 50px 0 50px; }
+  .hero__header {
+    display: inline-block;
+    padding: 8px 10px;
+    color: white;
+    font-size: 40px;
+    background-color: black; }
+  .hero__desc {
+    display: inline-block;
+    padding: 8px 10px;
+    font-size: 20px;
+    color: lightgrey;
+    background-color: black; }
+
+@media (min-width: 600px) {
+  .hero {
+    height: 600px;
+    padding-bottom: 0; }
+    .hero__header {
+      font-size: 70px; }
+    .hero__desc {
+      font-size: 30px; } }
+
+/*# sourceMappingURL=hero.css.map */

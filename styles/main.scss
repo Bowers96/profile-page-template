@@ -1,5 +1,10 @@
 body {
 	margin: 0;
+	font-family: 'Slabo 27px', serif;
+}
+
+p {
+	margin: 0;
 }
 
 .container {
@@ -9,14 +14,11 @@ body {
 .left-col {
 	background: steelblue;
 	width: 100%;
-	padding: 15px;
 	box-sizing: border-box;
 }
 
 .right-col {
 	width: 100%;
-	background: wheat;
-	padding: 15px;
 	box-sizing: border-box;
 }
 
